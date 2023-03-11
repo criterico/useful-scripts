@@ -1,2 +1,2 @@
-# useful-scripts
-A compilation of useful scripts that has been used
+# "Usefuls" scripts
+A compilation of useful scripts, some made in PHP, some made with Python
